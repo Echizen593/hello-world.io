@@ -2,7 +2,7 @@
 body {
     background-color: pink; /* Set background color */
     color: green; /* Set font color */
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     margin: 0;
     padding: 20px;
 }
@@ -25,7 +25,7 @@ h1 {
 
 /* Paragraph and preformatted text styles */
 p, pre {
-    text-align: center;
+    text-align: left;
     font-size: 18px;
 }
 
