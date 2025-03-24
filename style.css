@@ -48,7 +48,7 @@ a:hover {
 
 /* Icons styling */
 a img {
-    vertical-align: middle;
+    vertical-align: left;
     margin-right: 5px;
     border-radius: 5px;
 }
