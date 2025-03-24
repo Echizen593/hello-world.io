@@ -14,8 +14,7 @@
      </head>
 
 <body>
-<img src="images/me.png" alt="My Photo" width="151" height="151" style="display:block; margin:auto";>
-
+![image alt](https://github.com/Echizen593/hello-world/blob/BioPage/insta.jpg?raw=true)
 <h1 style="background-color:Fuchsia;text-align:center;">KAYE LEE B. EROLES</h1>
 
 <pre style="text-align:center;">
