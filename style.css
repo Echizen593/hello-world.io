@@ -1,7 +1,7 @@
 body {
     background-color: #ffe6f2; /* Light Pink Background */
     font-family: Verdana, sans-serif;
-    color: black;
+    color: pink;
     margin: 0;
     padding: 20px;
     text-align: center;
@@ -19,7 +19,7 @@ img.profile-img {
 /* Style the main heading */
 h1 {
     background-color: pink;
-    color: black;
+    color: green;
     text-align: center;
     padding: 15px;
     border-radius: 10px;
