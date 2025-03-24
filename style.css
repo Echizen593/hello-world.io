@@ -1,6 +1,6 @@
 /* General styles */
 body {
-    background-image: background2.jpg; /* Set background image */
+     background-image: url('background2.jpg'); /* Set background image */
     color: black; /* Set font color */
     font-family: Verdana;
     margin: 0;
