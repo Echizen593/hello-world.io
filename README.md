@@ -50,7 +50,7 @@ Designated Guidance Teacher</pre>
 <h2>SOCIALS</h2>
 <img src="images/linkedin.png" alt="Linkedin" width="20" height="20";><a href="https://www.linkedin.com/in/kaye-eroles-932b20357">My LinkedIn account</a> <br>
 <img src="images/fb.png" alt="Facebook" width="20" height="20";> <a href="https://www.facebook.com/kye.leigh.129">My Facebook account</a> <br>
-![image alt]([https://github.com/Echizen593/hello-world/blob/c2d4f3205ab484ae07339f28dbe325706331d3bd/insta.jpg](https://github.com/Echizen593/hello-world/blob/BioPage/insta.jpg?raw=true))
+![image alt](https://github.com/Echizen593/hello-world/blob/BioPage/insta.jpg?raw=true)
 
 <h2>INTERESTS</h2>
 <pre>Video and Photo Editing
