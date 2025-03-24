@@ -7,7 +7,7 @@
 
 
 <body>
-![image alt](me2.png)
+![image alt](https://github.com/Echizen593/hello-world/blob/bc9e791457739984f25cb4f4092f3b20d306563b/Me.png))
 <h1 style="background-color:Fuchsia;text-align:center;">KAYE LEE B. EROLES</h1>
 
 <pre style="text-align:center;">
