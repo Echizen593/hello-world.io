@@ -16,7 +16,7 @@ img {
 }
 
 
-h1, h2 {
+h1 {
     background-color: white;
     color:green;
     padding: 10px;
@@ -24,6 +24,13 @@ h1, h2 {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+h2 {
+    background-color: white;
+    color:green;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
 /* Paragraph and preformatted text styles */
 p, pre {
     text-align: left;
