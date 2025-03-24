@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="HTML, CSS, JavaScript">
-<link rel="stylesheet" href="Biopage_css.css">
+<link rel="stylesheet" href="style.css">
 <body>
 <img src="Me.png" alt="Centered Image" width="200" height="200" style="display:block; margin:auto";>
 <h1 style="background-color:Pink;text-align:center;">KAYE LEE B. EROLES</h1>
