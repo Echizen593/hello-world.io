@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="HTML, CSS, JavaScript">
-    <meta name="author" content="Kaye Lee B. Eroles">
-  </head>
- 
+  
+</head>
+<body background-image='background2.jpg' background-repeat="no-repeat" height="100%" width="100%">
+
 <body>
 <img src="Me.png" alt="Centered Image" width="200" height="200" style="display:block; margin:auto";>
-<h1 style="background-color:pink;text-align: center;">KAYE LEE B. EROLES</h1>
+<h1 style="background-color:pink; text-align: center;">KAYE LEE B. EROLES</h1>
 
 <pre style="text-align:center;">
 <b>Address: Brgy. Danlagan, Padre Burgos, Quezon</b>
@@ -57,9 +57,9 @@ Watching Korean dramas and Animes
 Traveling</pre>
 
 <h2>REFERENCES</h2>
-<pre><b>Isabel P. Rogel </b>    Head Teacher II                            San Vicente Kanluran National High School
-<b>Edna L. Cabrera </b> Public School District Supervisor    Unisan District
-<b>Lorena P. Ilag </b>      Assistant School Principal II          Danlagan National High School</pre>
+<pre><b>Isabel P. Rogel </b>         Head Teacher II                        San Vicente Kanluran National High School
+<b>Edna L. Cabrera </b>         Public School District Supervisor      Unisan District
+<b>Lorena P. Ilag </b>          Assistant School Principal II          Danlagan National High School</pre>
 
 </body>
 </html>
