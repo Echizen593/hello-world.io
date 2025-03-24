@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="HTML, CSS, JavaScript">
-<meta name="author" content="Kaye Lee B. Eroles">
-
-<img src="Me.png" alt="Description" width="110" height="110">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Kaye Lee B. Eroles">
+  </head>
+ 
 <body>
-<h1 style="background-color:Fuchsia;text-align:center;">KAYE LEE B. EROLES</h1>
+<img src="Me.png" alt="Centered Image" width="200" height="200" style="display:block; margin:auto";>
+<h1 style="background-color:pink;text-align: center;">KAYE LEE B. EROLES</h1>
 
 <pre style="text-align:center;">
 <b>Address: Brgy. Danlagan, Padre Burgos, Quezon</b>
@@ -39,9 +41,15 @@ Designated Guidance Teacher</pre>
 </pre>
 
 <h2>SOCIALS</h2>
-<img src="images/linkedin.png" alt="Linkedin" width="20" height="20";><a href="https://www.linkedin.com/in/kaye-eroles-932b20357">My LinkedIn account</a> <br>
-<img src="images/fb.png" alt="Facebook" width="20" height="20";> <a href="https://www.facebook.com/kye.leigh.129">My Facebook account</a> <br>
-![image alt](https://github.com/Echizen593/hello-world/blob/BioPage/insta.jpg?raw=true)
+<a href="https://www.linkedin.com/in/kaye-eroles-932b20357">
+    <img src="linkedin.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"> My LinkedIn account
+</a><br>
+<a href="https://www.facebook.com/kye.leigh.129">
+    <img src="fb.png" alt="Facebook" width="20" height="20" style="vertical-align: middle;"> My Facebook account
+</a><br>
+<a href="https://www.instagram.com/kayeeroles">
+    <img src="insta.jpg" alt="Instagram" width="20" height="20" style="vertical-align: middle;"> My Instagram account
+</a>
 
 <h2>INTERESTS</h2>
 <pre>Video and Photo Editing
@@ -50,7 +58,7 @@ Traveling</pre>
 
 <h2>REFERENCES</h2>
 <pre><b>Isabel P. Rogel </b>    Head Teacher II                            San Vicente Kanluran National High School
-<b>Edna L. Cabrera </b>   Public School District Supervisor    Unisan District
+<b>Edna L. Cabrera </b> Public School District Supervisor    Unisan District
 <b>Lorena P. Ilag </b>      Assistant School Principal II          Danlagan National High School</pre>
 
 </body>
