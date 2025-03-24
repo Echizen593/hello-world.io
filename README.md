@@ -5,9 +5,8 @@
 <meta name="keywords" content="HTML, CSS, JavaScript">
 <meta name="author" content="Kaye Lee B. Eroles">
 
-
+<img src="Me.png" alt="Description" width="110" height="110">
 <body>
-![Me](Me2.png)
 <h1 style="background-color:Fuchsia;text-align:center;">KAYE LEE B. EROLES</h1>
 
 <pre style="text-align:center;">
