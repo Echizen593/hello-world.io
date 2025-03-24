@@ -30,14 +30,7 @@ p, pre {
     font-size: 18px;
 }
 
-/* Socials styling */
-a {
-    text-decoration: none;
-    font-weight: bold;
-    color: darkgreen;
-    display: inline-block;
-    margin: 5px 0;
-}
+
 
 a:hover {
     color: white;
