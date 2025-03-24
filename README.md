@@ -4,14 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="HTML, CSS, JavaScript">
 <meta name="author" content="Kaye Lee B. Eroles">
-<title>My Simple HTML Bio Page</title>
-<style>
-     body {background-image:url('background2.jpg');}
-     body {font-family: verdana;}
-     h2 {color: Green;}
-     pre {font-family: verdana;}
-     </style>
-     </head>
+
 
 <body>
 ![image alt](me2.png)
